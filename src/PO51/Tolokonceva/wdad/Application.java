@@ -6,7 +6,7 @@ package PO51.Tolokonceva.wdad;
 public class Application {
     public static class Main {
         public static void main(String[] args) {
-            System.out.print("I'm Tolokonceva, and I’m not a monkey ");
+            System.out.print("I'm Tolokonceva, and I’m not a monkey !");
 
         }
     }
